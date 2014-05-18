@@ -29,7 +29,7 @@ do so in seconds.
 
 To build the box, first install the following prerequisites:
 
-  * [Packer](http://www.packer.io) (at least version 0.5.1)
+  * [Packer](http://www.packer.io) (at least version 0.6.0)
   * [VirtualBox](http://www.virtualbox.org) (at least version 4.3) or VMware
   * [Vagrant](http://www.vagrantup.com)
 
